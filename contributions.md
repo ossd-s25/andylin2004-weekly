@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Jan 27   | [Contribution Link](https://www.openstreetmap.org/changeset/161829157#map=19/40.693891/-73.851654)    | OpenStreet Map Feature    |   I updated wheelchair accessibility information for a MTA subway station that recently got new ADA elevators.    |
 |     |     |     |      |
 |     |     |     |      |
