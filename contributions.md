@@ -46,4 +46,20 @@ Replace the first row with your own contribution.
 | Feb 26 | [Contribution Link](https://en.wikipedia.org/w/index.php?title=R110B_(New_York_City_Subway_car)&oldid=1277684050) | Wikipedia edit | fixed the tense for an event that occurred |
 | Feb 26 | [Contribution Link](https://en.wikipedia.org/w/index.php?title=R110B_(New_York_City_Subway_car)&oldid=1277767208) | Wikipedia edit | adding a citation for a statement that required a citation |
 | Mar 4 | [Contribution Link](https://en.wikipedia.org/w/index.php?title=IPad_(10th_generation)&oldid=1278772358) | Wikipedia edit | adding the fact that the iPad was discontinued |
-| Mar 4 | [Contrition Link](https://en.wikipedia.org/w/index.php?title=IPad_(10th_generation)&oldid=1278772793) | Wikipedia edit | adding link to successor iPad |
+| Mar 4 | [Contribution Link](https://en.wikipedia.org/w/index.php?title=IPad_(10th_generation)&oldid=1278772793) | Wikipedia edit | adding link to successor iPad |
+| Mar 19 | [Contribution Link](https://en.wikipedia.org/w/index.php?title=Editor_war&oldid=1281298573) | Wikipedia edit | Fixed a typo with which version of macOS removed a cmd line editor and added a citation for that |
+| Mar 30 | [Contribution Link](https://en.wikipedia.org/w/index.php?title=Grammy_Awards&oldid=1283170703) | Wikipedia edit | Reworded one of the picture captions, since it was slightly inaccurate |
+| Apr 3 | Contribution Link | GitHub project issue | Reported an issue where some necessary files for building a local copy of a software was unavailable |
+| Apr 3 | Contribution Link | GitHub project issue | Created a pull request for an issue with the settings screen occasionally being too short for whatever reason |
+| Apr 5 | [Contribution Link](https://en.wikipedia.org/w/index.php?title=Yaphank_station&oldid=1283812054) | Wikipedia edit | Undid a vandalism edit for a LIRR station article |
+| Apr 5 | [Contribution Link](https://en.wikipedia.org/w/index.php?title=Yaphank_station&oldid=1283812388) | Wikipedia edit | Edited article to say that new station opens 2026 |
+| Apr 11 | [Contribution Link](https://en.wikipedia.org/w/index.php?title=List_of_OnePlus_products&oldid=1285108686) | Wikipedia edit | Fixed a header that was using the wrong header type |
+| Apr 20 | [Contribution Link](https://en.wikipedia.org/w/index.php?title=Teterboro_Airport&oldid=1286549027) | Wikipedia edit | Changed the neighborhood name of where that famous airplane piracy incident landed at, since someone doesn't know NYC geography enough |
+| Apr 24 | [Contribution Link](https://en.wikipedia.org/w/index.php?title=EMD_SD70_series&oldid=1287211857) | Wikipedia edit | Fixed a slight typo in the article |
+| Apr 27 | [Contribution Link](https://en.wikipedia.org/w/index.php?title=Alaska_Airlines_fleet&oldid=1287652580) | Wikipedia edit | Updated the number of Boeing 737-900s remaining at Alaska Airlines |
+| Apr 30 | [Contribution Link](https://en.wikipedia.org/w/index.php?title=R188_(New_York_City_Subway_car)&oldid=1288055187) | Wikipedia edit | Added info on a consist that was modified with anti train surfing features |
+| Apr 30 | [Contribution Link](https://en.wikipedia.org/w/index.php?title=Icelandair&oldid=1288116191) | Wikipedia edit | Added info on Icelandair retiring their Boeing 767 passenger fleet |
+| May 2 | [Contribution Link](https://en.wikipedia.org/w/index.php?title=Avant_Gardner&oldid=1288434214) | Wikipedia edit | Edited a tense to be past tense, as the venue had a reconstruction that didn't finish on time |
+| May 7 | [Contribution Link](https://en.wikipedia.org/w/index.php?title=Virgin_Atlantic&oldid=1289317443) | Wikipedia edit | Edited the last paragraph of the article to align better with the rest of the article and to fix grammar issues |
+| May 7 | [Contribution Link](https://en.wikipedia.org/w/index.php?title=Alaska_Airlines_fleet&oldid=1289318209) | Wikipedia edit | Edited paragraph on the Boeing 737-900 retirement to align with previous paragraphs, and added a citation |
+| May 7 | [Contribution Link](https://en.wikipedia.org/w/index.php?title=R211_(New_York_City_Subway_car)&oldid=1289319922) | Wikipedia edit | Deleted a sentence about there were touchscreen maps, as that was never installed |
