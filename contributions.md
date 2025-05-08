@@ -48,9 +48,12 @@ Replace the first row with your own contribution.
 | Mar 4 | [Contribution Link](https://en.wikipedia.org/w/index.php?title=IPad_(10th_generation)&oldid=1278772358) | Wikipedia edit | adding the fact that the iPad was discontinued |
 | Mar 4 | [Contribution Link](https://en.wikipedia.org/w/index.php?title=IPad_(10th_generation)&oldid=1278772793) | Wikipedia edit | adding link to successor iPad |
 | Mar 19 | [Contribution Link](https://en.wikipedia.org/w/index.php?title=Editor_war&oldid=1281298573) | Wikipedia edit | Fixed a typo with which version of macOS removed a cmd line editor and added a citation for that |
+| Mar 19 | [Contribution Link](https://github.com/ossd-s25/wiki/issues/2) | Course wiki | Reported an issue with some links being broken, probably because of file renames |
 | Mar 30 | [Contribution Link](https://en.wikipedia.org/w/index.php?title=Grammy_Awards&oldid=1283170703) | Wikipedia edit | Reworded one of the picture captions, since it was slightly inaccurate |
-| Apr 3 | Contribution Link | GitHub project issue | Reported an issue where some necessary files for building a local copy of a software was unavailable |
-| Apr 3 | Contribution Link | GitHub project issue | Created a pull request for an issue with the settings screen occasionally being too short for whatever reason |
+| Apr 1 | [Contribution Link](https://github.com/joannakl/ossd/issues/146) | Course weekly | Reported an issue where the course wiki was kind of out of date with information |
+| Apr 3 | [Contribution Link](https://github.com/utmapp/UTM/issues/7116) | GitHub project issue | Reported an issue where some necessary files for building a local copy of a software was unavailable (and you can't get the old versions) |
+| Apr 3 | [Contribution Link](https://github.com/utmapp/mac.getutm.app/issues/44) ([see also](https://github.com/utmapp/UTM/issues/7113)) | GitHub project issue | Reposted an issue about a broken download, as well as attempt to verify that it's still there but through an annoying log in process |
+| Apr 3 | [Contribution Link](https://github.com/utmapp/UTM/pull/7117) | GitHub project issue | Created a pull request for an issue with the settings screen occasionally being too short for whatever reason |
 | Apr 5 | [Contribution Link](https://en.wikipedia.org/w/index.php?title=Yaphank_station&oldid=1283812054) | Wikipedia edit | Undid a vandalism edit for a LIRR station article |
 | Apr 5 | [Contribution Link](https://en.wikipedia.org/w/index.php?title=Yaphank_station&oldid=1283812388) | Wikipedia edit | Edited article to say that new station opens 2026 |
 | Apr 11 | [Contribution Link](https://en.wikipedia.org/w/index.php?title=List_of_OnePlus_products&oldid=1285108686) | Wikipedia edit | Fixed a header that was using the wrong header type |
